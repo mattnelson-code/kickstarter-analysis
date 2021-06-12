@@ -1,9 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends 
 
-## File upload
-[KickstarterAnalysis](KickstarterAnalysis.xlxs)
-
 ## Image upload
 * ![ParentCategoryOutcomes](ParentCategoryOutcomes.png)
 * ![SubcategoryOutcomes](SubcategoryOutcomes.png)
