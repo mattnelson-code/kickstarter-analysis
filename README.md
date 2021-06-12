@@ -2,12 +2,12 @@
 Performing analysis on Kickstarter data to uncover trends 
 
 ## File upload
-[KickstarterAnalysis](path/to/KickstarterAnalysis.xlxs)
+[KickstarterAnalysis](KickstarterAnalysis.xlxs)
 
 ## Image upload
-* ![ParentCategoryOutcomes](path/to/ParentCategoryOutcomes.png)
-* ![SubcategoryOutcomes](path/to/SubcategoryOutcomes.png)
-* ![OutcomesBasedOnLaunchDate](path/to/OutcomesBasedOnLaunchDate.png)
+* ![ParentCategoryOutcomes](ParentCategoryOutcomes.png)
+* ![SubcategoryOutcomes](SubcategoryOutcomes.png)
+* ![OutcomesBasedOnLaunchDate](OutcomesBasedOnLaunchDate.png)
 
 ## Comments for Louise
 
