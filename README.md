@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends 
 
 ## Image upload
-* ![ParentCategoryOutcomes](ParentCategoryOutcomes.png)
+* ![ParentCategoryOutcomes](path/to/ParentCategoryOutcomes.png)
 * ![SubcategoryOutcomes](SubcategoryOutcomes.png)
 * ![OutcomesBasedOnLaunchDate](OutcomesBasedOnLaunchDate.png)
 
