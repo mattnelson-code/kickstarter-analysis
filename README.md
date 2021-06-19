@@ -17,13 +17,13 @@
 
 * PivotTable created using Kickstarter data to visualize outcomes based on launch date 
 * Filter the Parent Category to theater to show data related to Louise's campaign
-* See chart: ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+* See chart: ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 * Goal ranges created to visualize outcomes based on goals 
 * Chart shows successful and failed outcomes for each goal range
-* See chart: ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+* See chart: ![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -44,12 +44,12 @@
 
 - What are some limitations of this dataset?
 
-* A limitation of the data set relates to the difficulty of measuring the campaign manager's fundraising skills. The data presented in the analysis holds fundraising skills constant. However, it seems that the ability to meet a goal in large part depends on the campaign manager's work ethic and skill set. 
+1. A limitation of the data set relates to the difficulty of measuring the campaign manager's fundraising skills. The data presented in the analysis holds fundraising skills constant. However, it seems that the ability to meet a goal in large part depends on the campaign manager's work ethic and skill set. 
 
-* Another limitation of the data set (though less significant) relates to the overall sample size. A greater sample size most likely makes the data more reliable. That said, the Kickstarter data's sample size makes the analysis worthwhile, and the above conclusions deliver insight that can benefit Louise's kickstarter campaign.
+2. Another limitation of the data set (though less significant) relates to the overall sample size. A greater sample size most likely makes the data more reliable. That said, the Kickstarter data's sample size makes the analysis worthwhile, and the above conclusions deliver insight that can benefit Louise's kickstarter campaign.
 
 - What are some other possible tables and/or graphs that we could create?
 
-* Building on the limitations section, it seems that a useful chart would convey the outcomes based on work ethic. Work ethic could be measured by hours of fundraising per week. A hypothesis would predict a positive correlation between hours of fundraising per week and successful outcomes, and a chart would show the precise amount of minimum hours per week that generated a successful outcome.
+1. Building on the limitations section, it seems that a useful chart would convey the outcomes based on work ethic. Work ethic could be measured by hours of fundraising per week. A hypothesis would predict a positive correlation between hours of fundraising per week and successful outcomes, and a chart would show the precise amount of minimum hours per week that generated a successful outcome.
 
-* On the other hand, it is important to look at a potential chart using the collected data. A useful chart would reveal desired locations for a kickstarter campaign by showing outcomes based on country. Perhaps certain countries impact outcomes more than others, which would be useful information to present to Louise. 
+2. On the other hand, it is important to look at a potential chart using the collected data. A useful chart would reveal desired locations for a kickstarter campaign by showing outcomes based on country. Perhaps certain countries impact outcomes more than others, which would be useful information to present to Louise. 
