@@ -17,13 +17,13 @@
 
 * PivotTable created using Kickstarter data to visualize outcomes based on launch date 
 * Filter the Parent Category to theater to show data related to Louise's campaign
-* See chart: ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+* See chart: ![Theater_Outcomes_vs_Launch](path/to/Resources)
 
 ### Analysis of Outcomes Based on Goals
 
 * Goal ranges created to visualize outcomes based on goals 
 * Chart shows successful and failed outcomes for each goal range
-* See chart: ![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+* See chart: ![Outcomes_vs_Goals](path/to/Resources)
 
 ### Challenges and Difficulties Encountered
 
